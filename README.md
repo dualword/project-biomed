@@ -5,6 +5,7 @@ Educational biomedical projects...
 See also:
  - [DualChemX](https://github.com/dualword/dualchemx)
  - [DualWord-RT](https://github.com/dualword/dualword-rt)
+ - [BinauralBeatX](https://github.com/dualword/binauralbeatx)
  - [Dualword-PMC](https://github.com/dualword/dualword-pmc)
  - [Dualword-PDB](https://github.com/dualword/dualword-pdb)
  
