@@ -15,8 +15,9 @@ mode |   affinity | dist from best mode
 RMSD = 0.623
 ```
 <p align="center">
-<img src="ligand.webp" alt="360° Spinning Overlay of Crystal vs Redocked Carazolol" height="100" width="100">&nbsp;
-<img src="screenshot1.png" height="100" width="100"/>
+<img src="ligand.webp" height="100" width="100" alt="360° Spinning Overlay of Crystal vs Redocked Carazolol" title="360° Spinning Overlay of Crystal vs Redocked Carazolol" >&nbsp;
+<img src="screenshot1.png" height="100" width="100" alt="original" title="original"/>&nbsp;
+<img src="screenshot2.png" height="100" width="100" alt="redocked" title="redocked"/>
 </p>
 
 
