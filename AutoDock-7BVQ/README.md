@@ -20,4 +20,8 @@ RMSD = 0.623
 <img src="screenshot2.png" height="100" width="100" alt="redocked" title="redocked"/>
 </p>
 
+## 💻 Cross-docking of other β₁-selective blockers
 
+| Ligand | affinity (kcal/mol) | $\Delta\Delta G$ (kcal/mol) | 
+| :--- | :---: | :---: |
+| **Carazolol** | -9.9 | 0.0 |
