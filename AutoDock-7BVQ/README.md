@@ -20,8 +20,15 @@ RMSD = 0.623
 <img src="screenshot2.png" height="100" width="100" alt="redocked" title="redocked"/>
 </p>
 
-## 💻 Cross-docking of other β₁-selective blockers
+## 💻 Cross-docking of other β-blockers
 
-| Ligand | affinity (kcal/mol) | $\Delta\Delta G$ (kcal/mol) | 
-| :--- | :---: | :---: |
-| **Carazolol** | -9.9 | 0.0 |
+| Num| Ligand | Affinity (kcal/mol) | $\Delta\Delta G$ (kcal/mol) | 
+| :--- | :---: | :---: |:---: |
+|1| **Carvedilol** | -10.7 | -0.2 |
+|2| **Carazolol** | -10.5 | 0.0 |
+|3| **Cyanopindolol** | -9.3 | +1.2 |
+
+<p align="center">
+<img src="screenshot3.png" height="100" width="100" alt="β-blockers" title="β-blockers"/>
+</p>
+
